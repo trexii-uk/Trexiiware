@@ -1,4 +1,6 @@
 # Trexiiware
+Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/trexii-uk/Trexiiware/refs/heads/main/main.lua"))()
+
 Trexiiware For Roblox Universal 
 Trexiiware does contain a keysystem, but I am just messing about. There is no linkvertise, lootlabs, no nothing, just a pastebin with the keys. They key does change, trying to do so everyday. Report your issues so I can fix them! The key is iluvtrexii   This cheat used to be called Flame, so the 'Flame' when you type the key in and it is on the notifications bit, that is because I'm too lazy to deobfuscate it and reobfuscate it with modifications.
 
